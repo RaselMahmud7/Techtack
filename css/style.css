@@ -19,3 +19,9 @@ font-family: 'Oxanium', cursive; ;
     border-radius: 5px;
     background: #fff;
 }
+
+@media only screen and (max-width: 600px) {
+    .featureDiv{
+        height:743px;
+    }
+}
